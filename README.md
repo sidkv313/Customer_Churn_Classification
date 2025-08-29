@@ -3,7 +3,7 @@ https://customerchurnclassification-qrb3vyxecmc9y3cmmqhz33.streamlit.app/
 
 # Customer Churn Prediction for Brazilian E-Commerce Platform
 
-![Churn Analysis](https://github.com/sidkv313/Customer_Churn_Classification/edit/main/media/churn_analysis_illustration.jpg)  
+![Churn Analysis](https://github.com/sidkv313/Customer_Churn_Classification/blob/main/media/churn_analysis_illustration)  
 
 ---
 
